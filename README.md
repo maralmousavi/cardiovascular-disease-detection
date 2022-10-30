@@ -1,6 +1,6 @@
 # Cardiovascular Disease Detection
 
-Implementing several machine learning approaches to detect the presence of cardiovascular disease.
+Implementing several machine learning approaches to evaluate the likelihood of having cardiovascular diseases.
 
 * Deep Neural Network
 * Logistic Regression
