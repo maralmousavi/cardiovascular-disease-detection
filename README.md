@@ -23,7 +23,7 @@ Results of implemented machine learning methods:
 # Dataset description
 [The cardiovascular disease dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) is an open-source dataset found on Kaggle. The dataset consists of 70,000 patient records and also contains 11 features.
 
-Data description
+Data description:
 There are 3 types of input features:
 
 Objective: factual information;
