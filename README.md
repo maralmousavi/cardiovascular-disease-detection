@@ -26,9 +26,12 @@ Results of implemented machine learning methods:
 Data description:
 There are 3 types of input features:
 
-Objective: factual information;
-Examination: results of medical examination;
-Subjective: information given by the patient.
+Objective: factual information
+
+Examination: results of medical examination
+
+Subjective: information given by the patient
+
 Features:
 
 * Age | Objective Feature | age | int (days)
