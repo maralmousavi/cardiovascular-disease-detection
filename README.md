@@ -21,7 +21,7 @@ Results of implemented machine learning methods:
 * XGBoost Classifier - 73.89
 
 # Dataset description
-The cardiovascular disease [dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) is an open-source dataset found on Kaggle. The data consists of 70,000 patient records and contains 11 features.
+[The cardiovascular disease dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) is an open-source dataset found on Kaggle. The dataset consists of 70,000 patient records and also contains 11 features.
 
 Data description
 There are 3 types of input features:
